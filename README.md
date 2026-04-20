@@ -1,4 +1,4 @@
-# 🛍️ ShopNest — Full-Stack E-Commerce Platform
+# ShopNest — Full-Stack E-Commerce Platform
 
 A production-ready, full-stack e-commerce application built with **Spring Boot**, **React**, and **MySQL** featuring JWT authentication, role-based access control, admin analytics dashboard, and a modern responsive UI.
 
@@ -10,7 +10,7 @@ A production-ready, full-stack e-commerce application built with **Spring Boot**
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Customer Features
 - **Product Browsing** — Browse products with advanced search, filtering by category/price, and sorting
@@ -38,7 +38,7 @@ A production-ready, full-stack e-commerce application built with **Spring Boot**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 | Technology | Purpose |
@@ -64,7 +64,7 @@ A production-ready, full-stack e-commerce application built with **Spring Boot**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ShopNest/
@@ -117,7 +117,7 @@ ShopNest/
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐         ┌──────────────────────────┐
@@ -156,7 +156,7 @@ ShopNest/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java 17+
@@ -200,7 +200,7 @@ npm start
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Authentication
 | Method | Endpoint | Description | Access |
@@ -245,7 +245,7 @@ npm start
 
 ---
 
-## 🔐 Security Implementation
+##  Security Implementation
 
 **JWT Flow:**
 1. User logs in with email/password
@@ -264,7 +264,7 @@ npm start
 
 ---
 
-## 📊 Admin Dashboard
+##  Admin Dashboard
 
 The admin dashboard features interactive analytics built with **Recharts**:
 
@@ -277,7 +277,7 @@ The admin dashboard features interactive analytics built with **Recharts**:
 
 ---
 
-## 🎨 UI Highlights
+## UI Highlights
 
 - **Modern Homepage** — Hero section with gradient CTA, animated stats counter, feature bar, category grid, featured products, promo banner, newsletter signup, and footer
 - **Sticky Navbar** — Glass-morphism effect on scroll, cart badge with item count, notification bell with unread count, user avatar dropdown with profile/logout
@@ -287,7 +287,7 @@ The admin dashboard features interactive analytics built with **Recharts**:
 
 ---
 
-## 🤝 What I Learned
+## What I Learned
 
 - Implementing **stateless JWT authentication** with Spring Security and custom filters
 - Building a **role-based access control** system (ADMIN/SELLER/BUYER)
@@ -299,10 +299,10 @@ The admin dashboard features interactive analytics built with **Recharts**:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by **Haswanth Avirneni**
+Built by **Haswanth Avirneni**
