@@ -1,0 +1,14 @@
+*.exe
+*.docx
+IntelliJ IDEA*/
+**/node_modules/
+**/.idea/
+**/target/
+*.class
+.env
+uploads/
+**/.mvn/
+*.iml
+*.log
+.DS_Store
+*.msi
